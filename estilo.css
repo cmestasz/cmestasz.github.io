@@ -1,0 +1,33 @@
+h1{ 
+    color: red;
+    display:inline;
+font-size:520px
+   
+}
+#azul{
+    color:blue;
+}
+#amarillo{
+    color:yellow
+}
+#rojo{
+    color:red
+}
+body{
+    background-color:rgba(255, 167, 3, 0.986) ;
+    font-size: xx-large;
+}
+#etiqueta{
+    color:blueviolet;
+}
+.red{
+    color:brown;
+}
+img{
+    width: 200px;
+    border-style: solid;
+    border-color: rgb(6, 10, 233);
+}
+.t4{
+    color:black;
+}
